@@ -1,0 +1,69 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/hodgkin-lymphoma---primary.py
+inputModule3:
+  class: File
+  path: python/hodgkin-lymphoma-spleen---primary.py
+inputModule4:
+  class: File
+  path: python/hodgkin-lymphoma-unspecified---primary.py
+inputModule5:
+  class: File
+  path: python/multiple-hodgkin-lymphoma---primary.py
+inputModule6:
+  class: File
+  path: python/hodgkin-lymphoma-sarcoma---primary.py
+inputModule7:
+  class: File
+  path: python/hodgkin-lymphoma-sclerosis---primary.py
+inputModule8:
+  class: File
+  path: python/hodgkin-lymphoma-axilla---primary.py
+inputModule9:
+  class: File
+  path: python/hodgkin-lymphoma-hodgkin's---primary.py
+inputModule10:
+  class: File
+  path: python/hodgkin-lymphoma-cellularity---primary.py
+inputModule11:
+  class: File
+  path: python/other-hodgkin-lymphoma---primary.py
+inputModule12:
+  class: File
+  path: python/intrathoracic-hodgkin-lymphoma---primary.py
+inputModule13:
+  class: File
+  path: python/hodgkin-lymphoma-depletion---primary.py
+inputModule14:
+  class: File
+  path: python/hodgkin-lymphoma-predominance---primary.py
+inputModule15:
+  class: File
+  path: python/hodgkin-lymphoma-granuloma---primary.py
+inputModule16:
+  class: File
+  path: python/hodgkin-lymphoma-history---primary.py
+inputModule17:
+  class: File
+  path: python/inguinal-hodgkin-lymphoma---primary.py
+inputModule18:
+  class: File
+  path: python/classical-hodgkin-lymphoma---primary.py
+inputModule19:
+  class: File
+  path: python/hodgkin-lymphoma-[m]hodgkin's---primary.py
+inputModule20:
+  class: File
+  path: python/lymphocytichistiocytic-hodgkin-lymphoma---primary.py
+inputModule21:
+  class: File
+  path: python/intraabdominal-hodgkin-lymphoma---primary.py
+inputModule22:
+  class: File
+  path: python/hodgkin---primary.py
+inputModule23:
+  class: File
+  path: python/output-cases.py
